@@ -50,7 +50,7 @@ class WeatherApp(App):
         """A coroutine to handle a text changed message."""
         if message.value:
             self.lookup_word(message.value)
-            self.lookup_5_day_forecast(message.value)
+            #self.lookup_5_day_forecast(message.value)
         else:
             # Clear the results
             self.query_one("#results", Markdown).update("")

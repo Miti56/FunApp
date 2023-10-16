@@ -2,6 +2,14 @@
 
 **WeatherApp** is a command-line application that allows you to look up current weather and 5-day weather forecasts for a city. It is built using the [Textual](https://pypi.org/project/textual/) module, which enables you to display detailed information in the command line.
 
+## Screenshots
+
+### Current Weather
+![Current Weather](https://example.com/screenshot_current_weather.png)
+
+### 5-Day Forecast
+![5-Day Forecast](https://example.com/screenshot_5_day_forecast.png)
+
 ## Features
 
 - Real-time current weather information for a city.
