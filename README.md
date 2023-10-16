@@ -4,11 +4,14 @@
 
 ## Screenshots
 
-### Current Weather
-![Current Weather](https://example.com/screenshot_current_weather.png)
+### Home Screen 
+![Current Weather](Screenshot 2023-10-16 at 20.20.34.png)
 
 ### 5-Day Forecast
-![5-Day Forecast](https://example.com/screenshot_5_day_forecast.png)
+![5-Day Forecast](Screenshot 2023-10-16 at 20.20.41.png)
+
+### 5-Day Forecast
+![5-Day Forecast](Screenshot 2023-10-16 at 20.21.01.png)
 
 ## Features
 
