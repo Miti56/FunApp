@@ -5,7 +5,7 @@
 ## Screenshots
 
 ### Home Screen 
-![Current Weather](Screenshot 2023-10-16 at 20.20.34.png)
+![Current Weather]([Screenshot 2023-10-16 at 20.20.34.png](https://github.com/Miti56/FunApp/blob/main/Screenshot%202023-10-16%20at%2020.21.01.png))
 
 ### 5-Day Forecast
 ![5-Day Forecast](Screenshot 2023-10-16 at 20.20.41.png)
